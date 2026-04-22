@@ -17,7 +17,7 @@ The goal is to simulate a real-world urban traffic scenario and provide data-dri
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard](images/traffic_dashboard.png)
+![Dashboard](https://github.com/arpith04/Traffic-Signal/blob/main/images/Traffic%20Signal%20Dashboard.jpg)
 
 ---
 
